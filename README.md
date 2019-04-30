@@ -10,7 +10,7 @@ For a common currency, its value is related to factors like the economic power o
 ## 1.The Economics of BitCoin Price Formation(Ciaian et al. 2016)
 This is a widely used paper following the main idea of Van Wijk (2013). It researched on bitcoin price formation by combining three types of bitcoin price determinants identified in the previous literature: market forces of supply and demand, investors' behavior and global financial development, and to account for their interactions.
 <br>
-<br>### The methodology
+### The methodology
 B represents the total stock of BitCoins in circulation and EX is the exchange rate of BitCoin. The total BitCoin supply, MS, is given by:<space>**MS=EX*B**
 <br>
 <br>And the demand of bitcoin MD is given by:<space>**MD=P*Y/V**
