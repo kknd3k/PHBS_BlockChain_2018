@@ -11,7 +11,7 @@ For a common currency, its value is related to factors like the economic power o
 This is a widely used paper following the main idea of Van Wijk (2013). It researched on bitcoin price formation by combining three types of bitcoin price determinants identified in the previous literature: market forces of supply and demand, investors' behavior and global financial development, and to account for their interactions.
 <br>
 <br>### The methodology
-B represents the total stock of BitCoins in circulation and EX is the exchange rate of BitCointhen the total BitCoin supply, MS, is given by:**MS=EX*B**
+B represents the total stock of BitCoins in circulation and EX is the exchange rate of BitCoin. The total BitCoin supply, MS, is given by:**MS=EX*B**
 <br>And the demand of bitcoin MD is given by:**MD=P*Y/V**
 <br>P is the general price level of goods and services.Y is the size of BitCoin economy, and V is the velocity of BitCoin circulation. The BitCoin’s velocity, V, measures the frequency at which one unit of BitCoin is used for purchase of goods and services, and it depends on the opportunity cost for holding it (inflation, opportunity interest rate).
 
