@@ -32,7 +32,7 @@ B represents the total stock of BitCoins in circulation and EX is the exchange r
  This paper found that BitCoin supply and demand have an important impact on BitCoin price. Second, we cannot reject the hypothesis that short-run investor speculations also affect BitCoin price. Finally, the estimates do not support previous findings that macro-financial indicators are driving BitCoin price
 <br>
  ## 2.What can be expected from the bitcoin(Van Wijk 2013)
- This is an early paper that is not publish on popular journal. But it gave some ideas to later research. I also listed it here. The author tried to find the role of global financial development e.g. stock exchange indices, exchange rates, and oil price measures, in determining BitCoin price. 
+ This is an early paper whose model is relatively simple. But it gave some ideas to later research. I also listed it here. The author tried to find the role of global financial development e.g. stock exchange indices, exchange rates, and oil price measures, in determining BitCoin price. 
  <br>
  ### The conclusion
  After properly processed data from 19th July 2010 until 13th June 2013, the author did an OLS based on value of bitcoin and some macro level dependent variables. After the regression, the value of the Bitcoin consists of several stock exchange indices, exchange rates, and oil prices measures. This paper found evidence that the Dow Jones index, the euro-dollar exchange rate, and oil price have a significant impact on the value of BitCoin in the long-run.
