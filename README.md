@@ -95,7 +95,8 @@ This is a comprehensive paper. It not only used factors mentioned in former lite
 ### The methodology
 The author regressed Bitcoin price on investors' attractiveness, exchange-trade volume, monetary velocity, estimated output volume,hash rate, gold price and Shangai market index using an ARDL BoundsTesting method for daily data covering the period from December 2010 to June 2014.
 ![Q5 1](/images/图5.png)
-<br>LBPI is the log of bitcoin price. LTTR is the log of investors’ attractiveness. LETR is the log of exchange-trade ratio, LMBV is the log of monetary velocity, LEOV is the log of estimated output volume. LHASH is the log of hash rate. GP is the log of gold price. LSI is the log of Shangai market index (SI). DV is dummy variable denote the closing of silkroad by FBI.
+
+<br>LBPI is the log of bitcoin price. LTTR is the log of investors’ attractiveness. LETR is the log of exchange-trade ratio, LMBV is the log of monetary velocity, LEOV is the log of estimated output volume. LHASH is the log of hash rate. LGP is the log of gold price. LSI is the log of Shangai market index (SI). DV is dummy variable denote the closing of silkroad by FBI.
 
 <br>Since we need the variables become stationary, some variables will take first order difference. The variables begin with ‘D’ means it took first order difference.
 ![Q5 2](/images/图6.png)
