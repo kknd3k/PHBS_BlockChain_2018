@@ -7,7 +7,7 @@ For each fiat currency, there is a central authority behind it. The currency val
 <br>I collected some literatures focus on bitcoin price formation. Actually this is a tough problem. Bitcoin price is extremely volatile no matter you denote in which currency. This huge fluctuation will produces noise which makes meaningful analysis difficult. Most of papers didn't provide a feasible model that can be used for prediction. Eventually, I still found some factors related to bitcoin price.
 
 # 2.Potential Determinants 
-There are many factors mentioned by literatures. I did a brief summary of factors widely used.
+There are many factors mentioned by literatures. I did a brief summary of factors widely used. They can be fundamental factors or technical factors.
 <br>
 ## (1)The investors’ attractiveness
 Kristoufek(2013) use times of Google search on key word 'Bitcoin' to denote attractiveness. In Kristoufek(2015),he also added wikipedia search of Bitcoin in to consideration. Bouoiyour&Selmi(2015) found that TTR has a positive impact on bitcoin price.
