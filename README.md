@@ -12,6 +12,17 @@ This is a widely used paper following the main idea of Van Wijk (2013). It resea
 <br>
 <br>### The methodology
 B represents the total stock of BitCoins in circulation and EX is the exchange rate of BitCoin. The total BitCoin supply, MS, is given by:**MS=EX*B**
+<br>
 <br>And the demand of bitcoin MD is given by:**MD=P*Y/V**
+<br>
 <br>P is the general price level of goods and services.Y is the size of BitCoin economy, and V is the velocity of BitCoin circulation. The BitCoin’s velocity, V, measures the frequency at which one unit of BitCoin is used for purchase of goods and services, and it depends on the opportunity cost for holding it (inflation, opportunity interest rate).
+<br>
+<br>Under market equilibrim condition:
+< >**MS=MD**
+<br>
+<br>So we have:
+<br>
+<br>< >**EX= P*Y/(V*B)**
+
+
 
