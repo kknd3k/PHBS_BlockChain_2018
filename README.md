@@ -37,7 +37,7 @@ B represents the total stock of BitCoins in circulation and EX is the exchange r
  ### The conclusion
  After properly processed data from 19th July 2010 until 13th June 2013, the author did an OLS based on value of bitcoin and some macro level dependent variables. After the regression, the value of the Bitcoin consists of several stock exchange indices, exchange rates, and oil prices measures. This paper found evidence that the Dow Jones index, the euro-dollar exchange rate, and oil price have a significant impact on the value of BitCoin in the long-run.
   
- ## 3.What Are the Main Drivers of the Bitcoin Price? Evidence from Wavelet Coherence Analysis
+ ## 3.What Are the Main Drivers of the Bitcoin Price? Evidence from Wavelet Coherence Analysis(Kristoufek 2015)
  The paper focus on various possible sources of price movements, ranging from fundamental sources to speculative and technical sources. The sample period is from 2010 to April 2014. This paper used utilized wavelets methodology, which is rarely used in normal economic thesis. The author spent long pages to illustrate it. If you have interest, you can see file folder called paper. I put all my reference paper here.
 <br>
 <br>The author said that the relationship between bitcoin price and a certain factor should not be permanent. Therefore, this paper provided several graphs to illustrate the relation in different time period, which also mean this paper didn’t provide a model that can help us to predict the bitcoin price.
