@@ -18,11 +18,11 @@ B represents the total stock of BitCoins in circulation and EX is the exchange r
 <br>P is the general price level of goods and services.Y is the size of BitCoin economy, and V is the velocity of BitCoin circulation. The BitCoin’s velocity, V, measures the frequency at which one unit of BitCoin is used for purchase of goods and services, and it depends on the opportunity cost for holding it (inflation, opportunity interest rate).
 <br>
 <br>Under market equilibrim condition:
-< >**MS=MD**
+<space>**MS=MD**
 <br>
 <br>So we have:
 <br>
-<br>< >**EX= P*Y/(V*B)**
+<br><space>**EX= P*Y/(V*B)**
 
 
 
