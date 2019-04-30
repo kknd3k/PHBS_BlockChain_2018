@@ -20,6 +20,7 @@ B represents the total stock of BitCoins in circulation and EX is the exchange r
 <br>Under market equilibrim condition:<space>**MS=MD**
 <br>
 <br>So we have:<space>**EX= P*Y/(V*B)**
+<br>
 <br>This equation under logarithmic transformation is:
 ![equation 1](/images/图1.png)
 <br>But this is no the final model since this paper will consider three types of factors, not only money supply and demand.
