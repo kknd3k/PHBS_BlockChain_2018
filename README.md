@@ -89,6 +89,29 @@ This is a OLS model. The author used cross-sectional data from 66 of the most wi
 <br>(2)The rate of ’coins’ found per minute is negatively correlated to altcoin value.
 <br>(3)The percentage of coins mined thus far compared to that which is left to be mined is positively correlated to altcoin value but not significant.
 
+## 5. What does bitcoin looks like(Bouoiyour & Selmi,2015)
+This is a comprehensive paper. It not only used factors mentioned in former literature, but also found some new factors. Besides, the author considered the closing of silkroad, which is taken as a dummy variable in estimation.
+
+### The methodology
+The author regressed Bitcoin price on investors' attractiveness, exchange-trade volume, monetary velocity, estimated output volume,hash rate, gold price and Shangai market index using an ARDL BoundsTesting method for daily data covering the period from December 2010 to June 2014.
+![Q5 1](/images/图5.png)
+<br>LBPI is the log of bitcoin price. LTTR is the log of investors’ attractiveness. LETR is the log of exchange-trade ratio, LMBV is the log of monetary velocity, LEOV is the log of estimated output volume. LHASH is the log of hash rate. GP is the log of gold price. LSI is the log of Shangai market index (SI). DV is dummy variable denote the closing of silkroad by FBI.
+
+<br>Since we need the variables become stationary, some variables will take first order difference. The variables begin with ‘D’ means it took first order difference.
+![Q5 2](/images/图6.png)
+
+### The Conclusion
+#### Short term
+<br>(1)the investors’ attractiveness plays a significant role in explaining Bitcoin price formation. 
+The exchange-trade ratio affects positively and significantly the price of Bitcoin. 
+
+<br>(2)Shangai market index contributes positively and significantly to BPI
+
+<br>(3)Bitcoin velocity, estimated output volume and gold price have no significant impact on Bitcoin price
+
+#### Long term
+The TTR, the EOV and the SI which play the major role in the short term, have any effect on BPI in the long-run.
+
 # Reference
 Balcilar, M., Bouri, E., Gupta, R., & Roubaud, D. (2017). Can volume predict Bitcoin returns and volatility? A quantiles-based approach. Economic Modelling, 64, 74-81.
 
