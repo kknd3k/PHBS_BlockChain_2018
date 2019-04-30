@@ -55,13 +55,13 @@ B represents the total stock of BitCoins in circulation and EX is the exchange r
 ### The conclusion
 (1)This paper found that BitCoin supply and demand have an important impact on BitCoin price. 
 <br>(2)We cannot reject the hypothesis that short-run investor speculations also affect BitCoin price.
-<br>(3)The estimates do not support previous findings that macro-financial indicators are driving BitCoin price
+<br>(3)The estimates do not support Van Wijk (2013) that macro-financial indicators are driving BitCoin price. My understanding is probabily the model in Van Wijk (2013) didn't set properly.
 <br>
  ## 3.2 What can be expected from the bitcoin(Van Wijk 2013)
  This is an early paper whose model is relatively simple. But it gave some ideas to later research. I also listed it here. The author tried to find the role of global financial development e.g. stock exchange indices, exchange rates, and oil price measures, in determining BitCoin price. 
  <br>
  ### The conclusion
- After properly processed data from 19th July 2010 until 13th June 2013, the author did an OLS based on value of bitcoin and some macro level dependent variables. After the regression, the value of the Bitcoin consists of several stock exchange indices, exchange rates, and oil prices measures. This paper found evidence that the Dow Jones index, the euro-dollar exchange rate, and oil price have a significant impact on the value of BitCoin in the long-run.
+ After properly processed data from 19th July 2010 until 13th June 2013, the author did an OLS based on value of bitcoin and some macro level dependent variables. The dependent variables include several stock exchange indices, exchange rates, and oil prices measures. This paper found evidence that the Dow Jones index, the euro-dollar exchange rate, and oil price have a significant impact on the value of BitCoin in the long-run.
   
  ## 3.3 What Are the Main Drivers of the Bitcoin Price? Evidence from Wavelet Coherence Analysis(Kristoufek 2015)
  The paper focus on various possible sources of price movements, ranging from fundamental sources to speculative and technical sources. The sample period is from 2010 to April 2014. This paper used utilized wavelets methodology, which is rarely used in normal economic thesis. The author spent long pages to illustrate it. In my understanding, this method is used in signal analysis.If you have interest, you can see file folder called paper. I put all my reference paper here.
@@ -93,7 +93,7 @@ This is a OLS model. The author used cross-sectional data from 66 of the most wi
 This is a comprehensive paper. It not only used factors mentioned in former literature, but also found some new factors. Besides, the author considered the closing of silkroad, which is taken as a dummy variable in estimation.
 
 ### The methodology
-The author regressed Bitcoin price on investors' attractiveness, exchange-trade volume, monetary velocity, estimated output volume,hash rate, gold price and Shangai market index using an ARDL BoundsTesting method for daily data covering the period from December 2010 to June 2014.
+The dependent variables include investors' attractiveness, exchange-trade volume, monetary velocity, estimated output volume,hash rate, gold price and Shangai market index. The author used an ARDL Bounds Testing method with daily data from December 2010 to June 2014.
 ![Q5 1](/images/图5.png)
 
 <br>LBPI is the log of bitcoin price. LTTR is the log of investors’ attractiveness. LETR is the log of exchange-trade ratio, LMBV is the log of monetary velocity, LEOV is the log of estimated output volume. LHASH is the log of hash rate. LGP is the log of gold price. LSI is the log of Shangai market index (SI). DV is dummy variable denote the closing of silkroad by FBI.
@@ -111,7 +111,7 @@ The exchange-trade ratio affects positively and significantly the price of Bitco
 <br>(3)Bitcoin velocity, estimated output volume and gold price have no significant impact on Bitcoin price
 
 #### (B)Long term
-The TTR, the EOV and the SI which play the major role in the short term, have any effect on BPI in the long-run.
+The TTR, the EOV and the SI which play the major role in the short term, have little effect on BPI in the long-run.
 
 # Reference
 Balcilar, M., Bouri, E., Gupta, R., & Roubaud, D. (2017). Can volume predict Bitcoin returns and volatility? A quantiles-based approach. Economic Modelling, 64, 74-81.
