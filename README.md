@@ -48,5 +48,18 @@ B represents the total stock of BitCoins in circulation and EX is the exchange r
 ### The conclusion
 Bitcoin supply, ratio between trade and exchange transaction volume (trade-exchange ratio), hash rate, difficulty, the times of Google/Wikipedia searches on key word “bitcoin” and Financial Stress Index is significantly correlated with bitcoin price in long term. But in the short term, the relationship in different time period change a lot.
 
+## 4.Cryptocurrency value formation: An empirical study leading to a cost of production model for valuing bitcoin(Hayes 2017)
+<br>There are lot of cryptocurrencies in the market. What is factor make the price of cryptocurrencies different. The first part of his paper did a cross-sectional analysis to define the causes of relative value formation among cryptocurrencies. In the second part, The author created a model to estimate the cost of produce one coin and to see whether the coin price is properly follow the change of the cost.
+### The methodology
+#### Part one
+This is a OLS model. The author used cross-sectional data from 66 of the most widely used on September 18, 2014
+![model 1](/images/图4.png)
+<br>
+<br>The result shows that:
+(1)The amount of mining (computational) power devoted to finding a ’coin’ is positively correlated to altcoin value
+(2)The rate of ’coins’ found per minute is negatively correlated to altcoin value.
+(3)The percentage of coins mined thus far compared to that which is left to be mined is positively correlated to altcoin value but not significant.
+
+
 
 
