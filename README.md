@@ -89,6 +89,25 @@ This is a OLS model. The author used cross-sectional data from 66 of the most wi
 <br>(2)The rate of ’coins’ found per minute is negatively correlated to altcoin value.
 <br>(3)The percentage of coins mined thus far compared to that which is left to be mined is positively correlated to altcoin value but not significant.
 
+# Reference
+Balcilar, M., Bouri, E., Gupta, R., & Roubaud, D. (2017). Can volume predict Bitcoin returns and volatility? A quantiles-based approach. Economic Modelling, 64, 74-81.
 
+<br>Bouoiyour, J., Selmi, R., & Tiwari, A. K. (2015). Is Bitcoin business income or speculative foolery? New ideas through an improved frequency domain analysis. Annals of Financial Economics, 10(01), 1550002.
+
+<br>Bouoiyour, J., & Selmi, R. (2015). What does Bitcoin look like?. Annals of Economics & Finance, 16(2).
+
+<br>Bouoiyour, J., Selmi, R., Tiwari, A. K., & Olayeni, O. R. (2016). What drives Bitcoin price. Economics Bulletin, 36(2), 843-850.
+
+<br>Ciaian, P., Rajcaniova, M., & Kancs, D. A. (2016). The economics of BitCoin price formation. Applied Economics, 48(19), 1799-1815.
+
+<br>Hayes, A. S. (2017). Cryptocurrency value formation: An empirical study leading to a cost of production model for valuing bitcoin. Telematics and Informatics, 34(7), 1308-1321.
+
+<br>Kristoufek, L. (2013). BitCoin meets Google Trends and Wikipedia: Quantifying the relationship between phenomena of the Internet era. Scientific reports, 3, 3415.
+
+<br>Kristoufek, L. (2015). What are the main drivers of the Bitcoin price? Evidence from wavelet coherence analysis. PloS one, 10(4), e0123923.
+
+<br>Piskorec, M., Antulov-Fantulin, N., Novak, P. K., Mozetic, I., Grcar, M., Vodenska, I., & Smuc, T. (2014). Cohesiveness in financial news and its relation to market volatility. Scientific reports, 4, 5038.
+
+<br>van Wijk, D. (2013). What can be expected from the BitCoin. Erasmus Universiteit Rotterdam.
 
 
