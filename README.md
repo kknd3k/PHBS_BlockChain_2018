@@ -56,9 +56,9 @@ This is a OLS model. The author used cross-sectional data from 66 of the most wi
 ![model 1](/images/图4.png)
 <br>
 <br>The result shows that:
-(1)The amount of mining (computational) power devoted to finding a ’coin’ is positively correlated to altcoin value
-(2)The rate of ’coins’ found per minute is negatively correlated to altcoin value.
-(3)The percentage of coins mined thus far compared to that which is left to be mined is positively correlated to altcoin value but not significant.
+<br>(1)The amount of mining (computational) power devoted to finding a ’coin’ is positively correlated to altcoin value
+<br>(2)The rate of ’coins’ found per minute is negatively correlated to altcoin value.
+<br>(3)The percentage of coins mined thus far compared to that which is left to be mined is positively correlated to altcoin value but not significant.
 
 
 
