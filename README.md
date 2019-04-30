@@ -30,7 +30,7 @@ B represents the total stock of BitCoins in circulation and EX is the exchange r
 <br>
 ### The conclusion
 (1)This paper found that BitCoin supply and demand have an important impact on BitCoin price. 
-<br>(2)e cannot reject the hypothesis that short-run investor speculations also affect BitCoin price.
+<br>(2)We cannot reject the hypothesis that short-run investor speculations also affect BitCoin price.
 <br>(3)he estimates do not support previous findings that macro-financial indicators are driving BitCoin price
 <br>
  ## 2.What can be expected from the bitcoin(Van Wijk 2013)
