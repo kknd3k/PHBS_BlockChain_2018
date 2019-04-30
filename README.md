@@ -10,7 +10,7 @@ For each fiat currency, there is a central authority behind it. The currency val
 There are many factors mentioned by literatures. I did a brief summary of factors widely used.
 <br>
 ## (1)The investors’ attractiveness (TTR)
-Kristoufek(2013) use times of Google search on key word 'Bitcoin' to denote attractiveness. In Kristoufek(2015),he also added wikipedia search of Bitcoin in to consideration. 
+Kristoufek(2013) use times of Google search on key word 'Bitcoin' to denote attractiveness. In Kristoufek(2015),he also added wikipedia search of Bitcoin in to consideration. Bouoiyour&Selmi(2015) found that TTR has a positive impact on bitcoin price.
 <br>
 ## (2)The exchange-trade ratio (ETR)
 When we try to measure the value of one currency, if trade and exchange on this currency is frequant, we can say this currency is valuable. This idea can apply on Bitcoin. The exchange-trade ratio is measured as a ratio between volumes on the currency exchange market and trade (Kristoufek 2015).
