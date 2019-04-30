@@ -17,14 +17,16 @@ B represents the total stock of BitCoins in circulation and EX is the exchange r
 <br>
 <br>P is the general price level of goods and services.Y is the size of BitCoin economy, and V is the velocity of BitCoin circulation. The BitCoin’s velocity, V, measures the frequency at which one unit of BitCoin is used for purchase of goods and services, and it depends on the opportunity cost for holding it (inflation, opportunity interest rate).
 <br>
-<br>Under market equilibrim condition:
-<space>**MS=MD**
+<br>Under market equilibrim condition:<space>**MS=MD**
 <br>
 <br>So we have:<space>**EX= P*Y/(V*B)**
 <br>This equation under logarithmic transformation is:
 ![equation 1](/images/图1.png)
+<br>But this is no the final model since this paper will consider three types of factors, not only money supply and demand.
+![equation 2](/images/图2.png)
+ <br>Factor a captures BitCoin’s attractiveness for investors. And factor m captures macroeconomic and financial indicators.
+<br>This model will be used in empirical part. The author choose VAR model.
 
-  
   
 
 
