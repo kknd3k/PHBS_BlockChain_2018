@@ -6,6 +6,35 @@ For a common currency, their is a central authority and the currency value is re
 <br>
 <br>I collected some literatures focus on bitcoin price formation. Actually this is a tough problem. Bitcoin price is extremely volatile no matter you denote in which currency like US dollar or CNY. This huge fluctuation will produces noise which makes meaningful analysis difficult. Most of papers didn't provide a feasible model that can be used for prediction. It seems that bitcoin price is more efficient than I expect. Eventually, I still found some factors related to bitcoin price.
 
+# Potential Determinants 
+There are some factors mentioned by different literature. I did a brief summary:
+<br>
+## (1)The investors’ attractiveness (TTR)
+As a proxy of investors’ attractiveness to Bitcoin, he use daily Bitcoin views from Google as it able to properly depict the speculative character of users (Kristoufek 2013). This indicator is determined via the frequency of the online Google search queries related to the new digital money generally and Bitcoin particularly. Arguably, Piskorec et al. (2014) highlight the effectiveness of this proxy to accurately describe the behavior of investors.
+<br>
+## (2)The exchange-trade ratio (ETR)
+The trade and exchange transactions expand the utility of holding the currency, leading to an increase in Bitcoin price. The exchange-trade ratio is measured as a ratio between volumes on the currency exchange market and trade (Bouoiyour et al. 2015).
+<br>
+## (3)The monetary velocity (MBV)
+By definition, the velocity of money is the frequency at which one unit of each currency is used to purchase tradable or non-tradable products for a given period. Because of the large daily fluctuations of Bitcoin, the velocity of the economy of this new currency has stayed relatively stable (Kristoufek 2014)
+
+## (4)The estimated output volume (EOV)
+It is similar to the total output volume with the addition of an algorithm which tries to remove change from the total value. This may reflect more accurately the true transaction volume. Basically, there is a negative relationship between the estimated
+output volume and Bitcoin price. Accordingly, Kristoufek (2014) shows that an increase in the estimated output volume leads to a drop in Bitcoin price in the long-run.
+
+## (5)The Hash rate (HASH)
+The emergence of Bitcoin has provided new approaches concerning payments. Hence, some new words have emerged such as the hash rate. It represents an indicator of the processing power of the Bitcoin network. For security goal, the latter must make intensive mathematical operations, prompting an increase in the hash rate. This may affect widely Bitcoin purchasers and increases substantially the demand of this new currency and in turn their prices. Generally speaking, the hash
+rate is associated positively to Bitcoin price (Kristoufek 2014).
+
+## (6)The gold price (GP)
+Bitcoin does not have an underlying value derived from consumption or production process such as gold. In that context, Ciaian et al. (2014) and Yermack (2014) provide evidence that there is any sign of Bitcoin being a safe haven.
+
+## (7)The Shangai market index/Dow Jones index
+The Shangai market is considered as the biggest player in Bitcoin economy and as a result may be perceived as a potential source of Bitcoin price volatility. Arguably, the announcement that Baidu (potential determinant of the Chinese online shopping) is accepting Bitcoin has affected considerably the price of the focal virtual currency. Recently, Bouoiyour et al. (2015), using an improved frequency domain approach-based on unconditional vs. conditional data analysis, find that Bitcoin is likely to be a speculative trap rather than business income, conditioning upon the performance of the Shangai market. Van Wijk(2013) also found that Dow Jones index is a significant factor to bitcoin/US dollar exchange rate.
+
+## (8)Bitcoin supply and demand
+There are different method to measure the bitcoin supply and demand. Instead of the number of bitcoin supply, Ciaian et al.(2016) use the value in dollar of bitcoin supply in their regression.
+
 # Literatures
 ## 1.The Economics of BitCoin Price Formation(Ciaian et al. 2016)
 This is a widely used paper following the main idea of Van Wijk (2013). It researched on bitcoin price formation by combining three types of bitcoin price determinants identified in the previous literature: market forces of supply and demand, investors' behavior and global financial development, and to account for their interactions.
@@ -40,7 +69,7 @@ B represents the total stock of BitCoins in circulation and EX is the exchange r
  After properly processed data from 19th July 2010 until 13th June 2013, the author did an OLS based on value of bitcoin and some macro level dependent variables. After the regression, the value of the Bitcoin consists of several stock exchange indices, exchange rates, and oil prices measures. This paper found evidence that the Dow Jones index, the euro-dollar exchange rate, and oil price have a significant impact on the value of BitCoin in the long-run.
   
  ## 3.What Are the Main Drivers of the Bitcoin Price? Evidence from Wavelet Coherence Analysis(Kristoufek 2015)
- The paper focus on various possible sources of price movements, ranging from fundamental sources to speculative and technical sources. The sample period is from 2010 to April 2014. This paper used utilized wavelets methodology, which is rarely used in normal economic thesis. The author spent long pages to illustrate it. If you have interest, you can see file folder called paper. I put all my reference paper here.
+ The paper focus on various possible sources of price movements, ranging from fundamental sources to speculative and technical sources. The sample period is from 2010 to April 2014. This paper used utilized wavelets methodology, which is rarely used in normal economic thesis. The author spent long pages to illustrate it. In my understanding, this method is used in signal analysis.If you have interest, you can see file folder called paper. I put all my reference paper here.
 <br>
 <br>The author said that the relationship between bitcoin price and a certain factor should not be permanent. Therefore, this paper provided several graphs to illustrate the relation in different time period, which also mean this paper didn’t provide a model that can help us to predict the bitcoin price.
 ![result 1](/images/图3.png)
