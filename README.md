@@ -21,6 +21,7 @@ B represents the total stock of BitCoins in circulation and EX is the exchange r
 <space>**MS=MD**
 <br>
 <br>So we have:<space>**EX= P*Y/(V*B)**
-
+<br>This equation under logarithmic transformation is:
+  
 
 
