@@ -10,7 +10,7 @@ For a common currency, their is a central authority and the currency value is re
 There are some factors mentioned by different literature. I did a brief summary:
 <br>
 ## (1)The investors’ attractiveness (TTR)
-As a proxy of investors’ attractiveness to Bitcoin, he use daily Bitcoin views from Google as it able to properly depict the speculative character of users (Kristoufek 2013). This indicator is determined via the frequency of the online Google search queries related to the new digital money generally and Bitcoin particularly. Arguably, Piskorec et al. (2014) highlight the effectiveness of this proxy to accurately describe the behavior of investors.
+As a proxy of investors’ attractiveness to Bitcoin, Kristoufek(2013) use daily Bitcoin views from Google as it able to properly depict the speculative character of users . This indicator is determined via the frequency of the online Google search queries related to the new digital money generally and Bitcoin particularly. Arguably, Piskorec et al. (2014) highlight the effectiveness of this proxy to accurately describe the behavior of investors.
 <br>
 ## (2)The exchange-trade ratio (ETR)
 The trade and exchange transactions expand the utility of holding the currency, leading to an increase in Bitcoin price. The exchange-trade ratio is measured as a ratio between volumes on the currency exchange market and trade (Bouoiyour et al. 2015).
