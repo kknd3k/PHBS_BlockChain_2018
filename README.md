@@ -26,6 +26,9 @@ B represents the total stock of BitCoins in circulation and EX is the exchange r
 ![equation 2](/images/图2.png)
  <br>Factor a captures BitCoin’s attractiveness for investors. And factor m captures macroeconomic and financial indicators.
 <br>This model will be used in empirical part. The author choose VAR model.
+<br>
+### The conclusion
+ This paper found that BitCoin supply and demand have an important impact on BitCoin price. Second, we cannot reject the hypothesis that short-run investor speculations also affect BitCoin price. Finally, the estimates do not support previous findings that macro-financial indicators are driving BitCoin price
 
   
 
