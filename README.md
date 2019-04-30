@@ -7,7 +7,7 @@ For a common currency, their is a central authority and the currency value is re
 <br>I collected some literatures focus on bitcoin price formation. Actually this is a tough problem. Bitcoin price is extremely volatile no matter you denote in which currency like US dollar or CNY. This huge fluctuation will produces noise which makes meaningful analysis difficult. Most of papers didn't provide a feasible model that can be used for prediction. It seems that bitcoin price is more efficient than I expect. Eventually, I still found some factors related to bitcoin price.
 
 # Potential Determinants 
-There are some factors mentioned by different literature. I did a brief summary.
+There are many factors mentioned by literatures. I did a brief summary of factors widely used.
 <br>
 ## (1)The investors’ attractiveness (TTR)
 Kristoufek(2013) use daily Bitcoin views from Google as it able to properly depict the speculative character of users. In Kristoufek(2015),he also added wikipedia search of Bitcoin in to consideration. About the effectiveness of this method, Piskorec et al.(2014) illustated that this method can precisely describe the behavior of investors.
