@@ -9,19 +9,19 @@ For each fiat currency, there is a central authority behind it. The currency val
 # 2.Potential Determinants 
 There are many factors mentioned by literatures. I did a brief summary of factors widely used.
 <br>
-## (1)The investors’ attractiveness (TTR)
+## (1)The investors’ attractiveness
 Kristoufek(2013) use times of Google search on key word 'Bitcoin' to denote attractiveness. In Kristoufek(2015),he also added wikipedia search of Bitcoin in to consideration. Bouoiyour&Selmi(2015) found that TTR has a positive impact on bitcoin price.
 <br>
-## (2)The exchange-trade ratio (ETR)
+## (2)The exchange-trade ratio
 When we try to measure the value of one currency, if trade and exchange on this currency is frequant, we can say this currency is valuable. This idea can apply on Bitcoin. The exchange-trade ratio is measured as a ratio between volumes on the currency exchange market and trade (Kristoufek 2015).
 <br>
-## (3)The monetary velocity (MBV)
+## (3)The monetary velocity
 By definition, the money velocity can be considered as in a certain time space, how many times one unit of bitcoin is used to purchase products.(Bouoiyour&Selmi 2015)
 
-## (4)The Hash rate (HASH)
+## (4)The Hash rate
 Hash rate is an indicator for power of  calculation in the Bitcoin network. Kristoufek(2015) the hash rate is associated positively to Bitcoin price. Hayes(2017) found that this positive relation is still hold even in cross-section level.  
 
-## (6)The gold price (GP)
+## (6)The gold price
 Compared with goods like gold, Bitcoin does not have an intrinsic valueVan Wijk (2013). Kristoufek(2015) mentioned it in his paper. But from the graph, the correlation is not stationary in different time points.
 
 ## (7)Dow Jones index
