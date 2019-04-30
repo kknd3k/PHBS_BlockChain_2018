@@ -29,7 +29,9 @@ B represents the total stock of BitCoins in circulation and EX is the exchange r
 <br>This model will be used in empirical part. The author choose VAR model.
 <br>
 ### The conclusion
- This paper found that BitCoin supply and demand have an important impact on BitCoin price. Second, we cannot reject the hypothesis that short-run investor speculations also affect BitCoin price. Finally, the estimates do not support previous findings that macro-financial indicators are driving BitCoin price
+(1)This paper found that BitCoin supply and demand have an important impact on BitCoin price. 
+<br>(2)e cannot reject the hypothesis that short-run investor speculations also affect BitCoin price.
+<br>(3)he estimates do not support previous findings that macro-financial indicators are driving BitCoin price
 <br>
  ## 2.What can be expected from the bitcoin(Van Wijk 2013)
  This is an early paper whose model is relatively simple. But it gave some ideas to later research. I also listed it here. The author tried to find the role of global financial development e.g. stock exchange indices, exchange rates, and oil price measures, in determining BitCoin price. 
@@ -46,7 +48,8 @@ B represents the total stock of BitCoins in circulation and EX is the exchange r
 <br>Here I put a graph as an example. The graph shows the squared wavelet coherence between the Bitcoin price and the supply. The hotter the color is, the higher the correlation. Statistically significant correlations are highlighted by a thick black curve around the significant regions. We can see that the bitcoin price is significantly related to bitcoin supply in long term (256 days). This relationship is robust in whole sample periods.
 
 ### The conclusion
-Bitcoin supply, ratio between trade and exchange transaction volume (trade-exchange ratio), hash rate, difficulty, the times of Google/Wikipedia searches on key word “bitcoin” and Financial Stress Index is significantly correlated with bitcoin price in long term. But in the short term, the relationship in different time period change a lot.
+(1)In the long term, Bitcoin supply, ratio between trade and exchange transaction volume (trade-exchange ratio), hash rate, difficulty, the times of Google/Wikipedia searches on key word “bitcoin” and Financial Stress Index is significantly correlated with bitcoin price. 
+<br>(2)In the short term, the relationship in different time period change a lot.
 
 ## 4.Cryptocurrency value formation: An empirical study leading to a cost of production model for valuing bitcoin(Hayes 2017)
 <br>There are lot of cryptocurrencies in the market. What is factor make the price of cryptocurrencies different. The first part of his paper did a cross-sectional analysis to define the causes of relative value formation among cryptocurrencies. 
