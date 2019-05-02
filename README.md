@@ -22,7 +22,7 @@ By definition, the money velocity can be considered as in a certain time space, 
 Hash rate is an indicator for power of  calculation in the Bitcoin network. Kristoufek(2015) the hash rate is associated positively to Bitcoin price. Hayes(2017) found that this positive relation is still hold even in cross-section level.  
 
 ## (6)The gold price
-Compared with goods like gold, Bitcoin does not have an intrinsic valueVan Wijk (2013). Kristoufek(2015) mentioned it in his paper. But from the graph, the correlation is not stationary in different time points.
+Compared with goods like gold, Bitcoin does not have an intrinsic value（Van Wijk, 2013). Kristoufek(2015) mentioned it in his paper. But from the graph, the correlation is not stationary in different time points.
 
 ## (7)Dow Jones index
 Van Wijk(2013) found that Dow Jones index is a significant factor to bitcoin/US dollar exchange rate.
