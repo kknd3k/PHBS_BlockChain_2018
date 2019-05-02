@@ -111,6 +111,12 @@ The exchange-trade ratio affects positively and significantly the price of Bitco
 
 #### (B)Long term
 The TTR, the EOV and the SI which play the major role in the short term, have little effect on BPI in the long-run.
+# Summary
+When I chose my topic, I wish I can find a model related to predict. However, current literatures provided some factors that have a link to bitcoin price. But those factors cannot be used on prediction since there isn't a proper model to do that. In some sense, this result showed the efficiency of the bitcoin price.
+
+<br> There is only a small number of literatures about bitcoin price formation. It is hard to apply the classic economic model on this topic if you want to get some new results. Therefore, reserchers are trying some model on science, like signal analysis. But one weakness is based on different model, you will get opposite conlusion on one factor. Since we don't have a model with predict power, we can't test which conclusion is right.
+
+<br>With the development of computer science, we may modify some factors that have predict power. But it is hard to explain the logic behind those factors because they are produces by complicated mathematics modification or statistical methods. Those factors may be useful but can't become a thesis.
 
 # Reference
 Balcilar, M., Bouri, E., Gupta, R., & Roubaud, D. (2017). Can volume predict Bitcoin returns and volatility? A quantiles-based approach. Economic Modelling, 64, 74-81.
