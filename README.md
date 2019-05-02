@@ -114,7 +114,9 @@ The TTR, the EOV and the SI which play the major role in the short term, have li
 
 # Reference
 Balcilar, M., Bouri, E., Gupta, R., & Roubaud, D. (2017). Can volume predict Bitcoin returns and volatility? A quantiles-based approach. Economic Modelling, 64, 74-81.
+<br>
 <br>Bouoiyour, J., Selmi, R., & Tiwari, A. K. (2015). Is Bitcoin business income or speculative foolery? New ideas through an improved frequency domain analysis. Annals of Financial Economics, 10(01), 1550002.
+
 <br>Bouoiyour, J., & Selmi, R. (2015). What does Bitcoin look like?. Annals of Economics & Finance, 16(2).
 
 <br>Bouoiyour, J., Selmi, R., Tiwari, A. K., & Olayeni, O. R. (2016). What drives Bitcoin price. Economics Bulletin, 36(2), 843-850.
