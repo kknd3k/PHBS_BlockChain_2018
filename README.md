@@ -78,9 +78,8 @@ B represents the total stock of BitCoins in circulation and EX is the exchange r
 ## 3.4 Cryptocurrency value formation: An empirical study leading to a cost of production model for valuing bitcoin(Hayes 2017)
 <br>There are lot of cryptocurrencies in the market. What is factor make the price of cryptocurrencies different. The first part of his paper did a cross-sectional analysis to define the causes of relative value formation among cryptocurrencies. 
 <br>
-<br>In the second part, The author created a model to estimate the cost of produce one coin. But I doubt that cost of productition model may contribute little if we want to predict the coin price because there are lots of speculators and noise in the market.
+<br>In the second part, The author created a model to estimate the cost of produce for one coin. But This cost of productition model may contribute little if we want to predict the coin price because there are lots of speculators and noise in the market.
 ### The methodology
-#### Part one
 This is a OLS model. The author used cross-sectional data from 66 of the most widely used on September 18, 2014
 ![model 1](/images/图4.png)
 <br>
